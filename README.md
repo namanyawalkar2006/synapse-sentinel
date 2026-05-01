@@ -48,7 +48,7 @@ The dashboard features three critical interception scenarios:
 3.  **c-003 (Commerce):** Neutralizing defamatory competitor bias.
 
 ## 🛠️ Installation & Vibe
-To see the system in action, simply open the [Live Demo](YOUR_PUBLISHED_URL_HERE). 
+To see the system in action, simply open the [Live Demo](https://youtu.be/JrzFryAc3zU). 
 
 1. **Scan** the Intercepted Anomalies.
 2. **Analyze** the Interaction Log.
