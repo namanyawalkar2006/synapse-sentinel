@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Sentinel",
+  "description": "A dashboard for analyzing failed AI prompts/responses for Logic Drift, Ethical Risk, and Hallucination Probability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

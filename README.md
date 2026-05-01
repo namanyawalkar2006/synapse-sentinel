@@ -1,24 +1,20 @@
-# 🛡️ Synapse Sentinel
-> **The AI Integrity & Forensic Diagnostic HUD**
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-Synapse Sentinel is a real-time investigator dashboard designed to intercept, diagnose, and repair "Logic Drift" in autonomous AI agents. Built for the **Synapse Innovation Hack 2026**.
+# Run and deploy your AI Studio app
 
-## 🚀 Live Demo
-[PASTE YOUR PUBLISHED GOOGLE AI STUDIO LINK HERE]
+This contains everything you need to run your app locally.
 
-## 🛠️ The Problem
-As AI moves toward autonomy, "black box" failures become dangerous. When an AI suggests tax evasion or ignores medical symptoms, developers need more than an error log—they need a **forensic autopsy**.
+View your app in AI Studio: https://ai.studio/apps/105e4e8e-0f33-4fef-97a1-35eac20f891b
 
-## ✨ Features
-- **Real-time Interception:** Monitors AI streams for ethical runoff.
-- **Fracture Point Analysis:** Identifies the exact tokens where logic bypassed safety heuristics.
-- **Automated Ethical Patching:** Generates optimized system directives to fix the model's behavior instantly.
-- **Cyber-HUD Interface:** High-stakes UI designed for speed and clarity.
+## Run Locally
 
-## 🧰 Tech Stack
-- **Intelligence:** [Google Gemini 1.5 Pro](https://aistudio.google.com/)
-- **Frontend:** React, Tailwind CSS, Framer Motion
-- **Icons:** Lucide-React
+**Prerequisites:**  Node.js
 
-## 🛡️ Ethics & Compliance
-Synapse Sentinel aligns with the **Synapse Innovation Hack** goal of creating safer, more accountable AI systems.
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
