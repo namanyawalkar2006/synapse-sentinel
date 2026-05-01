@@ -56,4 +56,4 @@ To see the system in action, simply open the [Live Demo](YOUR_PUBLISHED_URL_HERE
 4. **Submit** the Forensic Evidence to the Investigator.
 
 ---
-*Developed with ❤️ for the Synapse Innovation Hack by a Vibe Coder who believes in Safe AI.*
+*Developed with Naman ❤️ for the Synapse Innovation Hack by a Vibe Coder who believes in Safe AI.*
